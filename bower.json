@@ -1,0 +1,11 @@
+{
+  "name": "leaflet-cluster-geohash",
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass-official": "~3.2.0+2",
+    "modernizr": "~2.8.3",
+    "jquery": "~2.1.1",
+    "leaflet": "~0.7.3"
+  },
+  "devDependencies": {}
+}
